@@ -1,135 +1,144 @@
 [[GTPSA]]
 arch = "aarch64"
-git-tree-sha1 = "76ad18c2ca5862d5bf7fcb47e6e6b5f8ee8adb72"
+git-tree-sha1 = "4446eb5616c076db835022fa4792b62f81101558"
 os = "macos"
 
     [[GTPSA.download]]
-    sha256 = "51e28126c45853f7f1bdc8d288b948c01baf5d227a184abbe6061cbed81f28b6"
-    url = "https://github.com/JuliaBinaryWrappers/GTPSA_jll.jl/releases/download/GTPSA-v1.5.0+0/GTPSA.v1.5.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "ca52b293b0200616807ce71e220aaea5ac19e42c17de0155a5abf596224334bf"
+    url = "https://github.com/JuliaBinaryWrappers/GTPSA_jll.jl/releases/download/GTPSA-v1.6.0+0/GTPSA.v1.6.0.aarch64-apple-darwin.tar.gz"
 [[GTPSA]]
 arch = "aarch64"
-git-tree-sha1 = "b46b787023807f6fa30140911536b640910d125f"
+git-tree-sha1 = "5d2166cdeec36fa2d1f038e2791847398d43d945"
 libc = "glibc"
 os = "linux"
 
     [[GTPSA.download]]
-    sha256 = "f0c86cfa6863849cab0480d1257cdab0b7c2bf587931a3c83c059d31900eff9a"
-    url = "https://github.com/JuliaBinaryWrappers/GTPSA_jll.jl/releases/download/GTPSA-v1.5.0+0/GTPSA.v1.5.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "957f98c400de18c137bdf3c0308c208ceb1c4694164831911714639ad9210073"
+    url = "https://github.com/JuliaBinaryWrappers/GTPSA_jll.jl/releases/download/GTPSA-v1.6.0+0/GTPSA.v1.6.0.aarch64-linux-gnu.tar.gz"
 [[GTPSA]]
 arch = "aarch64"
-git-tree-sha1 = "5300b690471cae87039f9e92d1a01bbc03870868"
+git-tree-sha1 = "a61f5f4d86b27105f8ba984046992649a76bd3ff"
 libc = "musl"
 os = "linux"
 
     [[GTPSA.download]]
-    sha256 = "2a2569e187446ff708e7300cd3732ecab39b1dea78689d01ec09528a91eb99e4"
-    url = "https://github.com/JuliaBinaryWrappers/GTPSA_jll.jl/releases/download/GTPSA-v1.5.0+0/GTPSA.v1.5.0.aarch64-linux-musl.tar.gz"
+    sha256 = "27ef7dfcbe3e4333600597b9505263b2a2ce760ffbb41e7ca026ac5aef81ccea"
+    url = "https://github.com/JuliaBinaryWrappers/GTPSA_jll.jl/releases/download/GTPSA-v1.6.0+0/GTPSA.v1.6.0.aarch64-linux-musl.tar.gz"
 [[GTPSA]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "b3dc1da1d2657ec7bebea0051fb308b7767bd7c4"
+git-tree-sha1 = "9dc28efd6b6d328cb9b3a21f4cb04d58fe457bb1"
 libc = "glibc"
 os = "linux"
 
     [[GTPSA.download]]
-    sha256 = "496c4e7baa54723d7aeb2af3b09895ab6dd71666bbac08de365e6d82f788b35c"
-    url = "https://github.com/JuliaBinaryWrappers/GTPSA_jll.jl/releases/download/GTPSA-v1.5.0+0/GTPSA.v1.5.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "b4d517da8b9183764c82e06a8f99d2de8f51ec1fefd1c2802f76d4eee11d04d2"
+    url = "https://github.com/JuliaBinaryWrappers/GTPSA_jll.jl/releases/download/GTPSA-v1.6.0+0/GTPSA.v1.6.0.armv6l-linux-gnueabihf.tar.gz"
 [[GTPSA]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "d4abfc837be182f7940efbb89ed1d17ac9fe7d86"
+git-tree-sha1 = "0dc26ee7bae73a0456bd0b9cb1a67b0c58f52981"
 libc = "musl"
 os = "linux"
 
     [[GTPSA.download]]
-    sha256 = "ce8dd699a98207c4cf2bec3fc163b0c9b4562ae519f778a04a6409a30e5701cc"
-    url = "https://github.com/JuliaBinaryWrappers/GTPSA_jll.jl/releases/download/GTPSA-v1.5.0+0/GTPSA.v1.5.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "1252b098c4ffd211891bd80ee73d476c76e89f7698587b984d6fefbd625a2cdb"
+    url = "https://github.com/JuliaBinaryWrappers/GTPSA_jll.jl/releases/download/GTPSA-v1.6.0+0/GTPSA.v1.6.0.armv6l-linux-musleabihf.tar.gz"
 [[GTPSA]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "a66e2f6089c8aa47ad18907b8f3a7f6c881befa2"
+git-tree-sha1 = "c42b13f5fe87c70bbc397991ca9c7c15d1204167"
 libc = "glibc"
 os = "linux"
 
     [[GTPSA.download]]
-    sha256 = "37542ec7824520440c8bb104573a23af0ff72351b7799766287c2c6d1f080862"
-    url = "https://github.com/JuliaBinaryWrappers/GTPSA_jll.jl/releases/download/GTPSA-v1.5.0+0/GTPSA.v1.5.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "41fb21d39f23156ee6f13eda7de1b1df34aabce0b5f4abeebd3f35cc06958b6b"
+    url = "https://github.com/JuliaBinaryWrappers/GTPSA_jll.jl/releases/download/GTPSA-v1.6.0+0/GTPSA.v1.6.0.armv7l-linux-gnueabihf.tar.gz"
 [[GTPSA]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "4d27ac1c1ee253a645f99a9ec07ee2d22110c068"
+git-tree-sha1 = "c97284134b9cad5c78fb2b9ab6175b3055d9ddf0"
 libc = "musl"
 os = "linux"
 
     [[GTPSA.download]]
-    sha256 = "6921e64184da6b273eec4f4887117ed6be7b379a56113db2edc24c7cb08022e4"
-    url = "https://github.com/JuliaBinaryWrappers/GTPSA_jll.jl/releases/download/GTPSA-v1.5.0+0/GTPSA.v1.5.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "a9810e32bb47320587eb58b1542851b43860a4579c5ca150ada566d1d4308d20"
+    url = "https://github.com/JuliaBinaryWrappers/GTPSA_jll.jl/releases/download/GTPSA-v1.6.0+0/GTPSA.v1.6.0.armv7l-linux-musleabihf.tar.gz"
 [[GTPSA]]
 arch = "i686"
-git-tree-sha1 = "ea13b8f9023da1cd50951edfb0cef4e529646def"
+git-tree-sha1 = "1e259b3034fd4375fa44e93b5fe71146a0168bf7"
 libc = "glibc"
 os = "linux"
 
     [[GTPSA.download]]
-    sha256 = "92a8464ca5e93c3c2eab4f83b895de64a6816785bad68382170d0446ede2a355"
-    url = "https://github.com/JuliaBinaryWrappers/GTPSA_jll.jl/releases/download/GTPSA-v1.5.0+0/GTPSA.v1.5.0.i686-linux-gnu.tar.gz"
+    sha256 = "3d388b50c64719c400ccad9f5fd494b669b61e31e761c7796e21f54445d35407"
+    url = "https://github.com/JuliaBinaryWrappers/GTPSA_jll.jl/releases/download/GTPSA-v1.6.0+0/GTPSA.v1.6.0.i686-linux-gnu.tar.gz"
 [[GTPSA]]
 arch = "i686"
-git-tree-sha1 = "6b0cd524a78890ed188b1cbc72e9ee0b1c8e0916"
+git-tree-sha1 = "161d169bdc31b5de20c28cec62ae389eaea84e39"
 libc = "musl"
 os = "linux"
 
     [[GTPSA.download]]
-    sha256 = "2eedbe9e96a573af9368b7ec070a6ff264e4902d6d02f1a3c49990c4136d586c"
-    url = "https://github.com/JuliaBinaryWrappers/GTPSA_jll.jl/releases/download/GTPSA-v1.5.0+0/GTPSA.v1.5.0.i686-linux-musl.tar.gz"
+    sha256 = "d74247f610beb976d398bf786766cc8c6d455bd1d8c0246b1ad2c0965e32f91f"
+    url = "https://github.com/JuliaBinaryWrappers/GTPSA_jll.jl/releases/download/GTPSA-v1.6.0+0/GTPSA.v1.6.0.i686-linux-musl.tar.gz"
 [[GTPSA]]
 arch = "i686"
-git-tree-sha1 = "bda4f633f0b7f0bf2bd622d42e5413c75a98b398"
+git-tree-sha1 = "7dfc4932b10e84178adcd1d8533fd50e3afb3d63"
 os = "windows"
 
     [[GTPSA.download]]
-    sha256 = "f89235f0ce37e40935d581d95345dfb155c3ad19617bd4cf65d33bb9e028686f"
-    url = "https://github.com/JuliaBinaryWrappers/GTPSA_jll.jl/releases/download/GTPSA-v1.5.0+0/GTPSA.v1.5.0.i686-w64-mingw32.tar.gz"
+    sha256 = "27a75dd7c077b1ae73065d621c7be780599f750eefc9ab5c54f881a94ce284e1"
+    url = "https://github.com/JuliaBinaryWrappers/GTPSA_jll.jl/releases/download/GTPSA-v1.6.0+0/GTPSA.v1.6.0.i686-w64-mingw32.tar.gz"
 [[GTPSA]]
 arch = "powerpc64le"
-git-tree-sha1 = "1d0a67b8465d9b449b91834ad5b475421778e090"
+git-tree-sha1 = "dd9ccf62ab5d013489088372a677928a7256e764"
 libc = "glibc"
 os = "linux"
 
     [[GTPSA.download]]
-    sha256 = "0019cfdcc32a0044e24d3cbf82b2a8d7de17844eb81715fcbc62efc65a8d5b5b"
-    url = "https://github.com/JuliaBinaryWrappers/GTPSA_jll.jl/releases/download/GTPSA-v1.5.0+0/GTPSA.v1.5.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "b4234482b6a272d86959c22e27d3b7956ddd0469cf1095be3a71ad6919273d81"
+    url = "https://github.com/JuliaBinaryWrappers/GTPSA_jll.jl/releases/download/GTPSA-v1.6.0+0/GTPSA.v1.6.0.powerpc64le-linux-gnu.tar.gz"
+[[GTPSA]]
+arch = "riscv64"
+git-tree-sha1 = "e1dc0515e746e2ba284b74debf5c6af3eedb3a3c"
+libc = "glibc"
+os = "linux"
+
+    [[GTPSA.download]]
+    sha256 = "70cd3dd8dfac8e5341a8fed4783ad7e3a7699bd31fc17e1e0dd4237b4a59b49a"
+    url = "https://github.com/JuliaBinaryWrappers/GTPSA_jll.jl/releases/download/GTPSA-v1.6.0+0/GTPSA.v1.6.0.riscv64-linux-gnu.tar.gz"
 [[GTPSA]]
 arch = "x86_64"
-git-tree-sha1 = "117608d87e07cb342091742b4b94aa4819a92ae4"
+git-tree-sha1 = "597db3ab1e8f8e29f520dfa5012270a398c71703"
 os = "macos"
 
     [[GTPSA.download]]
-    sha256 = "3061724a2c829ff208d13055448bb0ddd227491dafb839fd6bc716bf978087e8"
-    url = "https://github.com/JuliaBinaryWrappers/GTPSA_jll.jl/releases/download/GTPSA-v1.5.0+0/GTPSA.v1.5.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "d9c27424018bdacd429a872e06daea6060a00754ab3226bfa4ac34f2dc7c3a22"
+    url = "https://github.com/JuliaBinaryWrappers/GTPSA_jll.jl/releases/download/GTPSA-v1.6.0+0/GTPSA.v1.6.0.x86_64-apple-darwin.tar.gz"
 [[GTPSA]]
 arch = "x86_64"
-git-tree-sha1 = "241407020a31b14ee01c8d72ef4555a621eab92a"
+git-tree-sha1 = "63593a5fa26d599a85b5c35588135589a8d22c2b"
 libc = "glibc"
 os = "linux"
 
     [[GTPSA.download]]
-    sha256 = "f2bc75c314d25e30b6e4efdf889a10c367566f57d55f08404002de2180d4c83f"
-    url = "https://github.com/JuliaBinaryWrappers/GTPSA_jll.jl/releases/download/GTPSA-v1.5.0+0/GTPSA.v1.5.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "c0e92c42a7a2807722e5c99882c40f3c6befcfaa480cb4ac2af4f0db7b974fdb"
+    url = "https://github.com/JuliaBinaryWrappers/GTPSA_jll.jl/releases/download/GTPSA-v1.6.0+0/GTPSA.v1.6.0.x86_64-linux-gnu.tar.gz"
 [[GTPSA]]
 arch = "x86_64"
-git-tree-sha1 = "77db05610e58245b032de46634eb31406e912e07"
+git-tree-sha1 = "93af116f45ccd1f8bed1a60f34617a081ccba180"
 libc = "musl"
 os = "linux"
 
     [[GTPSA.download]]
-    sha256 = "8a556db4798f672e274338cc01293ef5d0dc6127c086a6faae2c96c6c8c98030"
-    url = "https://github.com/JuliaBinaryWrappers/GTPSA_jll.jl/releases/download/GTPSA-v1.5.0+0/GTPSA.v1.5.0.x86_64-linux-musl.tar.gz"
+    sha256 = "8100c57bf4c9acc4a4be8137c130bfa2183cb1211f1a999a23f7f9366203d195"
+    url = "https://github.com/JuliaBinaryWrappers/GTPSA_jll.jl/releases/download/GTPSA-v1.6.0+0/GTPSA.v1.6.0.x86_64-linux-musl.tar.gz"
 [[GTPSA]]
 arch = "x86_64"
-git-tree-sha1 = "b6f430be621d35f7c8d453d3132ce48179812c3e"
+git-tree-sha1 = "3b763ff1ca5d77c769fbbb1c637a4ea89e874086"
 os = "windows"
 
     [[GTPSA.download]]
-    sha256 = "1ddb801d9c532333c66c3783703db31d42f9657693105d1a552ce3b0b7985964"
-    url = "https://github.com/JuliaBinaryWrappers/GTPSA_jll.jl/releases/download/GTPSA-v1.5.0+0/GTPSA.v1.5.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "d15edadfb0c0b0c2e042f19bfc4cddb167191c97e963916be86ccfc72dff5fbb"
+    url = "https://github.com/JuliaBinaryWrappers/GTPSA_jll.jl/releases/download/GTPSA-v1.6.0+0/GTPSA.v1.6.0.x86_64-w64-mingw32.tar.gz"
