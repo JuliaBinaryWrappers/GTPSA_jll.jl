@@ -1,6 +1,6 @@
 name = "GTPSA_jll"
 uuid = "a4739e29-4b97-5c0b-bbcf-46f08034c990"
-version = "1.6.0+0"
+version = "1.6.1+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
